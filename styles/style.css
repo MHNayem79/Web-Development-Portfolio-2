@@ -190,11 +190,11 @@ footer input[type="text"] , [type="email"] , footer textarea{
     }
     .banner-profile-pic {
         position: absolute;
-        bottom: -700px;
+        bottom: -1050px;
         right: 0px;
         width: 100%;
     }
-    .banner-gteetings{
+    .banner-greetings{
         margin-bottom: 0px;
     }
     header{
